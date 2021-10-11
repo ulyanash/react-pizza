@@ -14,7 +14,8 @@ function Header() {
           </div>
         </div>
         <div className="header__cart">
-          <Button />
+          <Button>Text</Button>
+          <Button outline>Text</Button>
         </div>
       </div>
     </div>
